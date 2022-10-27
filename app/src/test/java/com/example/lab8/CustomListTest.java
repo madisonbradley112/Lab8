@@ -14,7 +14,7 @@ public class CustomListTest {
     private CustomList list;
     /**
      * create a mocklist for my citylist
-     * @return 
+     * @return
      */
     public CustomList MockCityList(){
         list = new CustomList(null,new ArrayList<>());
